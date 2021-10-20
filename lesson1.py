@@ -1,5 +1,4 @@
 # print("Hello world")
-"""problem"""
 # age = 27
 # print(type(age))
 # print(id(age))
